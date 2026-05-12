@@ -133,7 +133,7 @@ This work is licensed under [Creative Commons Attribution-NonCommercial-ShareAli
 
 You are free to share and adapt this material for non-commercial purposes, as long as you give appropriate credit and distribute your contributions under the same license.
 
-For commercial licensing inquiries: ameinhardt@wmtgroup.ru
+For commercial licensing inquiries: andrew.meinhardt@yandex.ru
 
 ## Author
 
@@ -143,4 +143,4 @@ AI Strategist · NEUROMEIN × WMT AI
 - Telegram: [@Andrew_meinhardt](https://t.me/Andrew_meinhardt)
 - Email: ameinhardt@wmtgroup.ru
 - Blog: [NEUROMEIN](https://t.me/neuromein)
-- Company: [wmt-ai.ru](https://wmt-ai.ru)
+
