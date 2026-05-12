@@ -138,7 +138,7 @@ For commercial licensing inquiries: andrew.meinhardt@yandex.ru
 ## Author
 
 **Andrew Meingardt** (Андрей Майнгардт)
-AI Strategist · NEUROMEIN × WMT AI
+AI Strategist · NEUROMEIN
 
 - Telegram: [@Andrew_meinhardt](https://t.me/Andrew_meinhardt)
 - Email: ameinhardt@wmtgroup.ru
